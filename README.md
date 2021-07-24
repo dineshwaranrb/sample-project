@@ -1,3 +1,7 @@
 # sample-project
 first sample repository
-As a freshe, I'm dineshwaran completed B.E and done manual testing course.
+Hi, I’m @dineshwaranrb
+I’m interested in testing.
+I learnt manual testing.
+I’m looking to collaborate on ...
+How to reach me ...
